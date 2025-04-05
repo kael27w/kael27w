@@ -41,9 +41,8 @@ You can find comprehensive details about my projects, specific skills, resume, a
 
 ## 📫 Get In Touch
 
-* **Portfolio:** [https://kael27w.github.io/](https://kael27w.github.io/)
 * **Email:** [yhael.e.lopez@gmail.com](mailto:yhael.e.lopez@gmail.com)
-* **LinkedIn:** [Link to your LinkedIn profile - *Consider adding this link here and on your portfolio!*]
+* **LinkedIn:** [https://www.linkedin.com/in/yhael-lopez]
 
 ---
 
