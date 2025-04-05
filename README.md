@@ -1,10 +1,51 @@
-## Hi I'm Yhael 👋
+# Hi there, I'm Yhael Lopez 👋
 
-CS and Commerce student at UVA<br/>
-Confident in my back-end development skills<br/>
-I'm always open to building new projects<br/>
-I'm learning more about front-end developing with React<br/>
-I enjoy reading about new developments in AI<br/>
+I'm a highly motivated rising third-year student at the **University of Virginia (UVA)**, pursuing dual degrees in **Computer Science** and **Commerce** (Expected Graduation: May 2027).
+
+I'm passionate about leveraging technology to solve real-world problems. While I am most comfortable with **back-end development**, I have also actively explored **machine learning** and **front-end development**. My primary goal is to dive deeper into **Artificial Intelligence** and secure impactful internship opportunities in the field.
+
+---
+
+## 💻 Areas of Focus & Exploration
+
+My technical experience spans several areas:
+
+* **Back-End Development:** Building the core logic and infrastructure for applications.
+* **Front-End Development:** Gaining practical experience in creating user interfaces, currently working with JavaScript and Next.js (see project below!).
+* **Machine Learning / AI:** Exploring AI concepts and seeking opportunities to apply them to practical challenges.
+
+_(For a detailed list of the specific technologies and tools I use, please see my Portfolio linked below.)_
+
+---
+
+## 🌱 Current Focus & Projects
+
+* 🚀 **Actively developing:** A **Customer Relationship Management (CRM) system** tailored for the life insurance industry. I'm building this from scratch using **JavaScript and Next.js** with the aim of creating a simple, practical, and effective tool for businesses.
+* 💡 **Seeking opportunities:** To apply and expand my knowledge in **Artificial Intelligence**, particularly interested in how AI can drive innovation and solve complex problems.
+
+---
+
+## ✨ Portfolio & Detailed Experience
+
+You can find comprehensive details about my projects, specific skills, resume, and more on my portfolio website:
+
+* 🔗 **Portfolio: [kael27w.github.io](https://kael27w.github.io/)**
+
+---
+
+## 🚀 Goals
+
+* I am actively seeking **Artificial Intelligence (AI) internship opportunities** for Summer 2025 and beyond.
+
+---
+
+## 📫 Get In Touch
+
+* **Portfolio:** [https://kael27w.github.io/](https://kael27w.github.io/)
+* **Email:** [yhael.e.lopez@gmail.com](mailto:yhael.e.lopez@gmail.com)
+* **LinkedIn:** [Link to your LinkedIn profile - *Consider adding this link here and on your portfolio!*]
+
+---
 
 
 # 💻 Tech Stack:
