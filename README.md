@@ -42,7 +42,7 @@ You can find comprehensive details about my projects, specific skills, resume, a
 ## 📫 Get In Touch
 
 * **Email:** [yhael.e.lopez@gmail.com](mailto:yhael.e.lopez@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/yhael-lopez]
+* **LinkedIn:** https://www.linkedin.com/in/yhael-lopez
 
 ---
 
